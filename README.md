@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Micr0wave3
-- 👀 I’m interested in 3D Printing, Mechanical Engineering
-- 🌱 I’m currently learning school stuff
+- 👀 I’m interested in manufacturing, uavs
+- 🌱 Mech Eng student
 - 📫 How to reach me @u_wav3
 
