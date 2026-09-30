@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Micr0wave3
 - 👀 I’m interested in acoustics and related hardware
 - 🌱 BEng Mechanical Engineering - University of Sussex
-     MSc Engineering Acoustics (ongoing) - DTU
+- 🌱 MSc Engineering Acoustics (ongoing) - DTU
